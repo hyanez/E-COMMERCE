@@ -22,4 +22,4 @@ The following screenshot shows the application's GET, POST, PUT, and DELETE rout
 
 - [Deployed Link](https://github.com/hyanez/NOTE-TAKER)
 - [Github Link](https://hyanez.github.io/NOTE-TAKER/)
-- [Video Walkthrough](https://watch.screencastify.com/v/7FhBRBSLd1e4N5TLz5Pk)
+- [Video Walkthrough](https://watch.screencastify.com/v/OKN0GbFsn8S1Lws6hOlm)
